@@ -1,5 +1,5 @@
 <h2 align="center">Hi There</h2>
-<br/>
+
 I'm **Ahmed Al-Mahrouqi** Computer Science and Engineering student. I am also a Competitive Programmer.
 
 I love problem-solving, building purposeful projects, and teaching others.
