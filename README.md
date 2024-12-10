@@ -5,8 +5,6 @@ I love problem-solving, building purposeful projects, and teaching others.
 
 <h2 align="center">Connect with me</h2>
 
-## Connect with me
-
 <div align="center"> 
   <a href="https://www.linkedin.com/in/al-mahrouqi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
