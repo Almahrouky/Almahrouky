@@ -20,10 +20,13 @@ I love problem-solving, building purposeful projects, and teaching others.
 <div align="center">
     <a href="https://codeforces.com/profile/Almahrouky">
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width="6%"/>
+    </a>&emsp;
+     <a href="https://www.codechef.com/users/almahrouqi">
+        <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Code Chef" width="6%"/>
     </a>&emsp; 
     <a href="https://atcoder.jp/users/AlMahrouqi">
         <img src="https://img.atcoder.jp/logo/atcoder/logo_transparent.png" alt="AtCoder" width="6%"/>
-    </a>&emsp; 
+    </a>&emsp;
     <a href="https://leetcode.com/u/Almahrouky/">
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="6%"/>
  </a>&emsp;
