@@ -3,6 +3,7 @@ I'm **Ahmed Al-Mahrouqi** Computer Science and Engineering student. I am also a 
 
 I love problem-solving, building purposeful projects, and teaching others.
 
+<h2 align="center">Connect with me</h2>
 ## Connect with me
 
 <div align="center"> 
