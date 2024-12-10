@@ -3,6 +3,8 @@ I'm **Ahmed Al-Mahrouqi** Computer Science and Engineering student. I am also a 
 
 I love problem-solving, building purposeful projects, and teaching others.
 
+## Connect with me
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/al-mahrouqi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
