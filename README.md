@@ -1,4 +1,4 @@
-<h2 align="center">Hi There, I'm **Ahmed Al-Mahrouqi**</h2>
+<h2 align="center">Hi There, I'm Ahmed Al-Mahrouqi</h2>
 
 - Computer Science and Engineering student.
 - I am a Competitive Programmer.
