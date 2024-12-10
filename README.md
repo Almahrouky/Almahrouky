@@ -30,4 +30,5 @@ I love problem-solving, building purposeful projects, and teaching others.
     <a href="https://leetcode.com/u/Almahrouky/">
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="6%"/>
  </a>&emsp;
+  <a href="https://www.codechef.com/users/YourUsername"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="50px"/> </a>&emsp;
 </div>
