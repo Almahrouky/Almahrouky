@@ -22,7 +22,7 @@ I love problem-solving, building purposeful projects, and teaching others.
         <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width="6%"/>
     </a>&emsp;
     <a href="https://www.codechef.com/users/almahrouqi">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codechef-a-platform-for-competitive-coding-competitions-online-judges-for-algorithm-and-data-structure-programming-logotype-shadow-tal-revivo.png" alt="CodeChef" width="6%"/>
+        <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" width="6%"/>
     </a>&emsp;
     <a href="https://atcoder.jp/users/AlMahrouqi">
         <img src="https://img.atcoder.jp/logo/atcoder/logo_transparent.png" alt="AtCoder" width="6%"/>
