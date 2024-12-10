@@ -13,7 +13,9 @@ I love problem-solving, building purposeful projects, and teaching others.
      <img src="https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
 </div>
+
 <h2 align="center">My Competitive Programming Profiles</h2>
+
 <div align="center">
 
     <a href="https://codeforces.com/profile/Almahrouky">
