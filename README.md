@@ -2,7 +2,7 @@
 
 - Computer Science and Engineering student.
 - I love Competitive Programming.
-- I love problem-solving, building purposeful projects, and teaching others.
+- I love problem-solving, building purposeful projects, and helping others.
 
 <h2 align="center">My Competitive Programming Profiles</h2>
 
